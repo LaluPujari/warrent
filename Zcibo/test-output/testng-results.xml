@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-24T11:35:23 IST" name="Default suite" finished-at="2023-05-24T11:35:23 IST" duration-ms="198">
+    <groups>
+    </groups>
+    <test started-at="2023-05-24T11:35:23 IST" name="Default test" finished-at="2023-05-24T11:35:23 IST" duration-ms="198">
+      <class name="com.ecom.TestNgpractice.DataProviderTest">
+        <test-method signature="getData(java.lang.String,java.lang.String,int,int,int)[pri:0, instance:com.ecom.TestNgpractice.DataProviderTest@4bb33f74]" started-at="2023-05-24T11:35:23 IST" name="getData" data-provider="data" finished-at="2023-05-24T11:35:23 IST" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gulbarga]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Banglore]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1300]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1304]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1304]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method signature="getData(java.lang.String,java.lang.String,int,int,int)[pri:0, instance:com.ecom.TestNgpractice.DataProviderTest@4bb33f74]" started-at="2023-05-24T11:35:23 IST" name="getData" data-provider="data" finished-at="2023-05-24T11:35:23 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pune]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gulbarga]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1001]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[13005]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1304]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method signature="getData(java.lang.String,java.lang.String,int,int,int)[pri:0, instance:com.ecom.TestNgpractice.DataProviderTest@4bb33f74]" started-at="2023-05-24T11:35:23 IST" name="getData" data-provider="data" finished-at="2023-05-24T11:35:23 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pune]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Banglore]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1800]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1300]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1300]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method signature="getData(java.lang.String,java.lang.String,int,int,int)[pri:0, instance:com.ecom.TestNgpractice.DataProviderTest@4bb33f74]" started-at="2023-05-24T11:35:23 IST" name="getData" data-provider="data" finished-at="2023-05-24T11:35:23 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pune]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Banglore]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1300]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1300]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1304]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+      </class> <!-- com.ecom.TestNgpractice.DataProviderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
