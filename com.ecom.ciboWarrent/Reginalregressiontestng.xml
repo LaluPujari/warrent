@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="2" name="Test">
+    <classes>
+      <class name="testNGimplentation.AddRestaurantByUsingTestNgTest">
+     <methods>
+     <include name="script_addrestaurant"></include>
+     </methods>
+      </class>
+       <class name="testNGimplentation.OrderedUserDetailsTestngTest">
+     <methods>
+     <include name="script_61"></include>
+     </methods>
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

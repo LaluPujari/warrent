@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="3" parallel="classes">
+  <test name="Chrome">
+  <parameter name="BROWSER" value="Chrome"></parameter>
+  <classes>
+  <class name="testNGimplentation.OrderedUserDetailsTestngTest"/>
+  <class name="testNGimplentation.AddRestaurantByUsingTestNgTest"></class>
+  </classes>
+  </test>
+  <test name="Firefox">
+  <parameter name="BROWSER" value="Firefox"></parameter>
+  <classes>
+   <class name="testNGimplentation.OrderedUserDetailsTestngTest"/>
+   <class name="testNGimplentation.AddRestaurantByUsingTestNgTest"></class>
+     
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
