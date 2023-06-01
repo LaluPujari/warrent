@@ -16,7 +16,7 @@ public class DataProvider11 {
 		System.out.println( "------------------------------------------");
 	}
 	
-	
+	//dataprovider
 	@DataProvider
 	public Object[][] data2() throws IOException {
 		FileInputStream fis = new FileInputStream("./src/test/resources/data.properties");
